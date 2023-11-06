@@ -1,0 +1,792 @@
+[
+    {
+        "name": "Kyte",
+        "funding_rounds.raised_amount": 2250000,
+        "number_of_employees": 40.0,
+        "category_code": "games_video",
+        "latitude": 37.788482,
+        "longitude": -122.409173,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Kyte",
+        "funding_rounds.raised_amount": 15000000,
+        "number_of_employees": 40.0,
+        "category_code": "games_video",
+        "latitude": 37.788482,
+        "longitude": -122.409173,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Kyte",
+        "funding_rounds.raised_amount": 6100000,
+        "number_of_employees": 40.0,
+        "category_code": "games_video",
+        "latitude": 37.788482,
+        "longitude": -122.409173,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Ustream",
+        "funding_rounds.raised_amount": 1700000,
+        "number_of_employees": 250.0,
+        "category_code": "games_video",
+        "latitude": 37.392936,
+        "longitude": -122.07948,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Ustream",
+        "funding_rounds.raised_amount": 11800000,
+        "number_of_employees": 250.0,
+        "category_code": "games_video",
+        "latitude": 37.392936,
+        "longitude": -122.07948,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Ustream",
+        "funding_rounds.raised_amount": 46600000,
+        "number_of_employees": 250.0,
+        "category_code": "games_video",
+        "latitude": 37.392936,
+        "longitude": -122.07948,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Revision3",
+        "funding_rounds.raised_amount": 1000000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.757758,
+        "longitude": -122.388243,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Revision3",
+        "funding_rounds.raised_amount": 8000000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.757758,
+        "longitude": -122.388243,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "CastTV",
+        "funding_rounds.raised_amount": 3100000,
+        "number_of_employees": 0.0,
+        "category_code": "games_video",
+        "latitude": 37.780716,
+        "longitude": -122.393913,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "hi5",
+        "funding_rounds.raised_amount": 20000000,
+        "number_of_employees": 100.0,
+        "category_code": "games_video",
+        "latitude": 37.788668,
+        "longitude": -122.400558,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "hi5",
+        "funding_rounds.raised_amount": 15000000,
+        "number_of_employees": 100.0,
+        "category_code": "games_video",
+        "latitude": 37.788668,
+        "longitude": -122.400558,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "hi5",
+        "funding_rounds.raised_amount": 3000000,
+        "number_of_employees": 100.0,
+        "category_code": "games_video",
+        "latitude": 37.788668,
+        "longitude": -122.400558,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "hi5",
+        "funding_rounds.raised_amount": 14000000,
+        "number_of_employees": 100.0,
+        "category_code": "games_video",
+        "latitude": 37.788668,
+        "longitude": -122.400558,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Curse",
+        "funding_rounds.raised_amount": 6000000,
+        "number_of_employees": 58.0,
+        "category_code": "games_video",
+        "latitude": 37.787092,
+        "longitude": -122.399972,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Curse",
+        "funding_rounds.raised_amount": 6000000,
+        "number_of_employees": 58.0,
+        "category_code": "games_video",
+        "latitude": 37.787092,
+        "longitude": -122.399972,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Metacafe",
+        "funding_rounds.raised_amount": 15000000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.437328,
+        "longitude": -122.159928,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Metacafe",
+        "funding_rounds.raised_amount": 30000000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.437328,
+        "longitude": -122.159928,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Metacafe",
+        "funding_rounds.raised_amount": 5000000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.437328,
+        "longitude": -122.159928,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Kongregate",
+        "funding_rounds.raised_amount": 1000000,
+        "number_of_employees": 20.0,
+        "category_code": "games_video",
+        "latitude": 37.786942,
+        "longitude": -122.401245,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Kongregate",
+        "funding_rounds.raised_amount": 5000000,
+        "number_of_employees": 20.0,
+        "category_code": "games_video",
+        "latitude": 37.786942,
+        "longitude": -122.401245,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Kongregate",
+        "funding_rounds.raised_amount": 3000000,
+        "number_of_employees": 20.0,
+        "category_code": "games_video",
+        "latitude": 37.786942,
+        "longitude": -122.401245,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Kongregate",
+        "funding_rounds.raised_amount": 10000000,
+        "number_of_employees": 20.0,
+        "category_code": "games_video",
+        "latitude": 37.786942,
+        "longitude": -122.401245,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "DanceJam",
+        "funding_rounds.raised_amount": 1000000,
+        "number_of_employees": 0.0,
+        "category_code": "games_video",
+        "latitude": 37.781557,
+        "longitude": -122.407959,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "DanceJam",
+        "funding_rounds.raised_amount": 3500000,
+        "number_of_employees": 0.0,
+        "category_code": "games_video",
+        "latitude": 37.781557,
+        "longitude": -122.407959,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Mevio",
+        "funding_rounds.raised_amount": 8900000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.782263,
+        "longitude": -122.392142,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Mevio",
+        "funding_rounds.raised_amount": 15000000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.782263,
+        "longitude": -122.392142,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Mevio",
+        "funding_rounds.raised_amount": 15000000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.782263,
+        "longitude": -122.392142,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Mevio",
+        "funding_rounds.raised_amount": 10000000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.782263,
+        "longitude": -122.392142,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Crunchyroll",
+        "funding_rounds.raised_amount": 4050000,
+        "number_of_employees": 50.0,
+        "category_code": "games_video",
+        "latitude": 37.781265,
+        "longitude": -122.393229,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Crunchyroll",
+        "funding_rounds.raised_amount": 750000,
+        "number_of_employees": 50.0,
+        "category_code": "games_video",
+        "latitude": 37.781265,
+        "longitude": -122.393229,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Rupture",
+        "funding_rounds.raised_amount": 3000000,
+        "number_of_employees": 25.0,
+        "category_code": "games_video",
+        "latitude": 37.783898,
+        "longitude": -122.395234,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "PlayFirst",
+        "funding_rounds.raised_amount": 16500000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.790346,
+        "longitude": -122.40185,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "PlayFirst",
+        "funding_rounds.raised_amount": 5000000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.790346,
+        "longitude": -122.40185,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "PlayFirst",
+        "funding_rounds.raised_amount": 5000000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.790346,
+        "longitude": -122.40185,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "PlayFirst",
+        "funding_rounds.raised_amount": 9200000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.790346,
+        "longitude": -122.40185,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "PlayFirst",
+        "funding_rounds.raised_amount": 2020000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.790346,
+        "longitude": -122.40185,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Outspark",
+        "funding_rounds.raised_amount": 4000000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.775196,
+        "longitude": -122.419204,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Outspark",
+        "funding_rounds.raised_amount": 11000000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.775196,
+        "longitude": -122.419204,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Outspark",
+        "funding_rounds.raised_amount": 8300000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.775196,
+        "longitude": -122.419204,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Zynga",
+        "funding_rounds.raised_amount": 10000000,
+        "number_of_employees": 115.0,
+        "category_code": "games_video",
+        "latitude": 37.765158,
+        "longitude": -122.404234,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Zynga",
+        "funding_rounds.raised_amount": 25000000,
+        "number_of_employees": 115.0,
+        "category_code": "games_video",
+        "latitude": 37.765158,
+        "longitude": -122.404234,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Zynga",
+        "funding_rounds.raised_amount": 15187000,
+        "number_of_employees": 115.0,
+        "category_code": "games_video",
+        "latitude": 37.765158,
+        "longitude": -122.404234,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Zynga",
+        "funding_rounds.raised_amount": 300000000,
+        "number_of_employees": 115.0,
+        "category_code": "games_video",
+        "latitude": 37.765158,
+        "longitude": -122.404234,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Zynga",
+        "funding_rounds.raised_amount": 490000000,
+        "number_of_employees": 115.0,
+        "category_code": "games_video",
+        "latitude": 37.765158,
+        "longitude": -122.404234,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Zynga",
+        "funding_rounds.raised_amount": 5026000,
+        "number_of_employees": 115.0,
+        "category_code": "games_video",
+        "latitude": 37.765158,
+        "longitude": -122.404234,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Zynga",
+        "funding_rounds.raised_amount": 15000000,
+        "number_of_employees": 115.0,
+        "category_code": "games_video",
+        "latitude": 37.765158,
+        "longitude": -122.404234,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Serious Business",
+        "funding_rounds.raised_amount": 4000000,
+        "number_of_employees": 22.0,
+        "category_code": "games_video",
+        "latitude": 37.7893215,
+        "longitude": -122.4013624,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Kabam",
+        "funding_rounds.raised_amount": 4000000,
+        "number_of_employees": 650.0,
+        "category_code": "games_video",
+        "latitude": 37.3944561,
+        "longitude": -122.0785314,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Kabam",
+        "funding_rounds.raised_amount": 5500000,
+        "number_of_employees": 650.0,
+        "category_code": "games_video",
+        "latitude": 37.3944561,
+        "longitude": -122.0785314,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Kabam",
+        "funding_rounds.raised_amount": 30000000,
+        "number_of_employees": 650.0,
+        "category_code": "games_video",
+        "latitude": 37.3944561,
+        "longitude": -122.0785314,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Kabam",
+        "funding_rounds.raised_amount": 85000000,
+        "number_of_employees": 650.0,
+        "category_code": "games_video",
+        "latitude": 37.3944561,
+        "longitude": -122.0785314,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Citizen Sports",
+        "funding_rounds.raised_amount": 10000000,
+        "number_of_employees": 27.0,
+        "category_code": "games_video",
+        "latitude": 37.777513,
+        "longitude": -122.397044,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "PurePlay",
+        "funding_rounds.raised_amount": 15000000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.775196,
+        "longitude": -122.419204,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Lexy",
+        "funding_rounds.raised_amount": 1250000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.786906,
+        "longitude": -122.397672,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Lexy",
+        "funding_rounds.raised_amount": 458000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.786906,
+        "longitude": -122.397672,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "ngmoco",
+        "funding_rounds.raised_amount": 5600000,
+        "number_of_employees": 150.0,
+        "category_code": "games_video",
+        "latitude": 37.7705096,
+        "longitude": -122.4015807,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "ngmoco",
+        "funding_rounds.raised_amount": 10000000,
+        "number_of_employees": 150.0,
+        "category_code": "games_video",
+        "latitude": 37.7705096,
+        "longitude": -122.4015807,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "ngmoco",
+        "funding_rounds.raised_amount": 24200000,
+        "number_of_employees": 150.0,
+        "category_code": "games_video",
+        "latitude": 37.7705096,
+        "longitude": -122.4015807,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "ngmoco",
+        "funding_rounds.raised_amount": 5000000,
+        "number_of_employees": 150.0,
+        "category_code": "games_video",
+        "latitude": 37.7705096,
+        "longitude": -122.4015807,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Shattered Reality Interactive",
+        "funding_rounds.raised_amount": 600000,
+        "number_of_employees": 10.0,
+        "category_code": "games_video",
+        "latitude": 37.783046,
+        "longitude": -122.394067,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Shattered Reality Interactive",
+        "funding_rounds.raised_amount": 500000,
+        "number_of_employees": 10.0,
+        "category_code": "games_video",
+        "latitude": 37.783046,
+        "longitude": -122.394067,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Shattered Reality Interactive",
+        "funding_rounds.raised_amount": 600000,
+        "number_of_employees": 10.0,
+        "category_code": "games_video",
+        "latitude": 37.783046,
+        "longitude": -122.394067,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Shattered Reality Interactive",
+        "funding_rounds.raised_amount": 500000,
+        "number_of_employees": 10.0,
+        "category_code": "games_video",
+        "latitude": 37.783046,
+        "longitude": -122.394067,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Brightstorm",
+        "funding_rounds.raised_amount": 6000000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.804619,
+        "longitude": -122.371203,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "One Season",
+        "funding_rounds.raised_amount": 250000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.775196,
+        "longitude": -122.419204,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "One Season",
+        "funding_rounds.raised_amount": 3500000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.775196,
+        "longitude": -122.419204,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Booyah",
+        "funding_rounds.raised_amount": 4500000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.420728,
+        "longitude": -122.2103414,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Booyah",
+        "funding_rounds.raised_amount": 5000000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.420728,
+        "longitude": -122.2103414,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Booyah",
+        "funding_rounds.raised_amount": 20000000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.420728,
+        "longitude": -122.2103414,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Booyah",
+        "funding_rounds.raised_amount": 30000000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.420728,
+        "longitude": -122.2103414,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "GotGame",
+        "funding_rounds.raised_amount": 500000,
+        "number_of_employees": 15.0,
+        "category_code": "games_video",
+        "latitude": 37.77772,
+        "longitude": -122.395785,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "GotGame",
+        "funding_rounds.raised_amount": 500000,
+        "number_of_employees": 15.0,
+        "category_code": "games_video",
+        "latitude": 37.77772,
+        "longitude": -122.395785,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Heyzap",
+        "funding_rounds.raised_amount": 650000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.7905538,
+        "longitude": -122.4041485,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Heyzap",
+        "funding_rounds.raised_amount": 15000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.7905538,
+        "longitude": -122.4041485,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Heyzap",
+        "funding_rounds.raised_amount": 3000000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.7905538,
+        "longitude": -122.4041485,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Heyzap",
+        "funding_rounds.raised_amount": 4300000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.7905538,
+        "longitude": -122.4041485,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Unity Technologies",
+        "funding_rounds.raised_amount": 5500000,
+        "number_of_employees": 200.0,
+        "category_code": "games_video",
+        "latitude": 55.6924605,
+        "longitude": 12.530107,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Unity Technologies",
+        "funding_rounds.raised_amount": 12000000,
+        "number_of_employees": 200.0,
+        "category_code": "games_video",
+        "latitude": 55.6924605,
+        "longitude": 12.530107,
+        "country_code": "USA",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Sticher",
+        "funding_rounds.raised_amount": 100000,
+        "number_of_employees": NaN,
+        "category_code": "games_video",
+        "latitude": 37.8093381,
+        "longitude": -122.4166061,
+        "country_code": "USA",
+        "city": "San Francisco"
+    }
+]
