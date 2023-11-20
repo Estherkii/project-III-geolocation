@@ -1,9 +1,8 @@
-# Project-III- Geospatial Data Project
+# Optimal Office Location Analysis for a Gaming Company: A Data-Driven Approach to Satisfying Employee Preferences
 
 ### Overview
 
 This GitHub project focuses on finding the best location for a new gaming company's office, taking into consideration various employee preferences and requirements. The company has a diverse workforce, including designers, engineers, developers, account managers, executives, and a CEO with unique preferences. The project aims to provide a data-driven decision for the optimal office location.
-
 
 ### Requirements/Libraries Used
 
@@ -46,7 +45,7 @@ To ensure the selected location meets all criteria, an API is utilized to gather
 
 The decision-making process is data-driven, considering various factors. Weights are assigned to each criterion based on its importance, and distances or densities are calculated as needed. The goal is to prioritize and optimize for the best overall location, taking all requirements into account.
 
-## Hypotheses:
+## Hypothesis:
 
 In our analysis, we have identified several hypotheses regarding the concentration of gaming, web, and design companies, particularly in San Francisco. First, the high number of such companies in San Francisco may be attributed to the city's robust tech ecosystem, which provides access to venture capital, a talented workforce, and valuable industry partnerships.
 
